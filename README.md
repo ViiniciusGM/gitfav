@@ -1,5 +1,5 @@
 <h1> Projeto GitHub Favorites! 
-  <h4>https://viiniciusgm.github.io/gitfav/
+  <h4>https://viniciusamc.github.io/gitfav/
   
 ##
 
